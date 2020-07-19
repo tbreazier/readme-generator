@@ -73,7 +73,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please select a license for your project (Required)',
-        choices: ['GNU GPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'The Unlicense (None)'],
+        choices: ['GNU-GPLv3', 'Mozilla-Public-License-2.0', 'Apache-License-2.0', 'MIT-License', 'The-Unlicense(None)'],
         validate: licenseInput => {
             if (licenseInput) {
               return true;
