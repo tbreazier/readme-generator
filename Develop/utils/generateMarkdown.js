@@ -2,6 +2,8 @@
 function generateMarkdown(data) {
   return `
   
+  ![${data.license} badge](https://img.shields.io/badge/license-${data.license}-blue)
+
   # ${data.title}
 
   ### Description
@@ -31,7 +33,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ### Questions?
-  [Github](https://github.com/${data.github})  
+  Github: [Profile](https://github.com/${data.github})  
   Email: ${data.email}
 
 `;
