@@ -1,6 +1,6 @@
 
   
-  ![MIT License badge](https://img.shields.io/badge/license-MIT License-blue)
+  ![MIT License](https://img.shields.io/static/v1?label=license&message=MIT License&color=blue)
 
   # asdfjkl
 
@@ -16,10 +16,10 @@
   + [Questions?](#questions?)
 
   ### Installation
-  asdfkjl
+  asdfjkl
 
   ### Usage
-  asdfkjl
+  asdfjkl
 
   ### Credits
   asdfjkl
@@ -28,9 +28,9 @@
   MIT License
 
   ### Tests
-  asdfhjk
+  adsfjkl
 
   ### Questions?
-  Github: [Profile](https://github.com/asdfhjk)  
-  Email: adsfhj
+  Github: [Profile](https://github.com/asdfjkl)  
+  Email: asdfjkl
 
