@@ -1,9 +1,9 @@
 
   
-  # asdfjkl
+  # Readme Generator
 
   ### Description
-  asdfjkla
+  This application will create a Readme.md file from user input using the terminal.
 
   ### Table of Contents
   +[Installation](#installation)
@@ -14,21 +14,21 @@
   +[Questions?](#questions?)
 
   ### Installation
-  asdfklj
+  Clone the repo from github, install node.js, and install node modules
 
   ### Usage
-  asdfjkl
+  Type node index.js in terminal, answer the questions about your project, view the completed readme file!
 
   ### Credits
-  asdfjkl
+  Online markdown editor for formatting
 
   ### License
-  GNU GPLv3
+  The Unlicense (None)
 
   ### Tests
-  asdfjkl
+  Tested several different aspects
 
   ### Questions?
-  Github: (https://github.com/asdfjkl)
-  Email: asdfjkl
+  Github: (https://github.com/tbreazier)
+  Email: tbreaz5015@aol.com
 
