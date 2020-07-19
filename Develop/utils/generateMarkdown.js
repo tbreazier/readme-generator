@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   
-  [${data.license}](https://img.shields.io/static/v1?label=license&query=${data.license}&color=blue)
+  ![${data.license} license badge](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue)
 
   # ${data.title}
 

@@ -1,11 +1,11 @@
 
   
-  [The-Unlicense(None)](https://img.shields.io/static/v1?label=license&query=The-Unlicense(None)&color=blue)
+  ![Mozilla-Public-License-2.0 license badge](https://img.shields.io/static/v1?label=license&message=Mozilla-Public-License-2.0&color=blue)
 
-  # Readme Generator
+  # tom
 
   ### Description
-  This project will generate Readme.md files based on user input from the terminal.
+  tom
 
   ### Table of Contents
   + [Installation](#installation)
@@ -16,21 +16,21 @@
   + [Questions?](#questions?)
 
   ### Installation
-  To install the application, clone the repo from github, install node.js, and install node modules.
+  tom
 
   ### Usage
-  In order to use the application, open in code editor and type "node index.js" in the terminal. Then answer the questions you are prompted. The readme.md file will generate when complete.
+  tom
 
   ### Credits
-  An online markdown editor, dillinger.io, was used for formatting.
+  tom
 
   ### License
-  The-Unlicense(None)
+  Mozilla-Public-License-2.0
 
   ### Tests
-  Tested each function and output file.
+  tests
 
   ### Questions?
   Github: [Profile](https://github.com/tbreazier)  
-  Email: tbreaz5015@aol.com
+  Email: tbrea@aol.com
 
