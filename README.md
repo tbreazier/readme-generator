@@ -7,7 +7,7 @@
   ### Description
   This project will generate a README.md file based on the user's input from the command line/terminal.
   
-  ![Application Sample Video]()
+  ![Application Sample Video](https://drive.google.com/file/d/1OjESbvE0KV35kPCTHpw5sWGUYcSO97Qa/view)
 
   ### Table of Contents
   + [Installation](#installation)
